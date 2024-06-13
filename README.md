@@ -2,6 +2,8 @@
 
 ![Wave](https://media1.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
